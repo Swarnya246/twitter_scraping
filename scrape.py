@@ -7,9 +7,9 @@ import datetime
 
 
 # edit these three variables
-user = 'realdonaldtrump'
+user = 'elonmusk'
 start = datetime.datetime(2010, 1, 1)  # year, month, day
-end = datetime.datetime(2016, 12, 7)  # year, month, day
+end = datetime.datetime(2020, 7, 25)  # year, month, day
 
 # only edit these if you're having problems
 delay = 1  # time to wait on each page load before reading the page
